@@ -1,8 +1,11 @@
-this is my branch master for test git
+1 this is my branch master for test git
 
 
 
-this code make it on the ubuntu1404 systerm on 20200423
+2 this code make it on the ubuntu1404 systerm on 20200423
 
   
-  this code make it on github , using get pull to downlond this code.....
+3 this code make it on github , using get pull to downlond this code.....
+
+4 test git push on ubuntu1404
+
